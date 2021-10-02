@@ -1,0 +1,6 @@
+C:\Projeler\SampleProjects\.NetSamples\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Projeler\SampleProjects\.NetSamples\Variables\Variables\bin\Debug\Variables.exe
+C:\Projeler\SampleProjects\.NetSamples\Variables\Variables\bin\Debug\Variables.pdb
+C:\Projeler\SampleProjects\.NetSamples\Variables\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
+C:\Projeler\SampleProjects\.NetSamples\Variables\Variables\obj\Debug\Variables.exe
+C:\Projeler\SampleProjects\.NetSamples\Variables\Variables\obj\Debug\Variables.pdb
