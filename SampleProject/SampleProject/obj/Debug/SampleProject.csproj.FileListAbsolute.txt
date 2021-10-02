@@ -1,0 +1,6 @@
+C:\Projeler\SampleProjects\.NetSamples\SampleProject\SampleProject\bin\Debug\SampleProject.exe.config
+C:\Projeler\SampleProjects\.NetSamples\SampleProject\SampleProject\bin\Debug\SampleProject.exe
+C:\Projeler\SampleProjects\.NetSamples\SampleProject\SampleProject\bin\Debug\SampleProject.pdb
+C:\Projeler\SampleProjects\.NetSamples\SampleProject\SampleProject\obj\Debug\SampleProject.csprojResolveAssemblyReference.cache
+C:\Projeler\SampleProjects\.NetSamples\SampleProject\SampleProject\obj\Debug\SampleProject.exe
+C:\Projeler\SampleProjects\.NetSamples\SampleProject\SampleProject\obj\Debug\SampleProject.pdb
